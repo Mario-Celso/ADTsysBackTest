@@ -51,7 +51,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clone este repositório
-$ https://github.com/Mario-Celso/ADTsysBackTest
+$ https://github.com/Mario-Celso/ADTsysBackTest.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd ADTsysBackTest
@@ -62,6 +62,6 @@ $ composer install
 # Vá ate o arquivo .env e cole a sua chave APPID adquirida na OpenWeatherMap
 
 # Execute a aplicação em modo de desenvolvimento
-$ composer start'
+$ composer start
 
 # O servidor inciará na porta:5000 - acesse <http://localhost:5000>
